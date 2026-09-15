@@ -14,7 +14,7 @@
 
 {Texto que verá el usuario}(https://www.ejemplo.com)
 
-[descrepcion de la imagen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNyVnCsPLHfjuO1jpUQSGf1AfW57EtaCekHKoJSLDbWQ&s=10)
+![descrepcion de la imagen](assets/img/images.jpeg)
 
 - HTML
 - CSS
@@ -160,3 +160,7 @@ brightgreen
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
 > 🎮 Una pequeña aventura creada como proyecto de clase.
+
+# Texto Dinamico
+![Estado](https://img.shileds.io/badge/estado-en%20desarrollo-yellow)
+! [Version](https://img.shileds.io/badge/version-1.0-blue)
