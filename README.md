@@ -60,6 +60,14 @@ Información sobre el proyecto.
 
 ## Instalación
 
-Pasos para instalarlo.
+Pasos para instarlo 
+
+:rocket:
+:computer:
+:smile:
+:heart:
+:warning:
+:tada:
+
 
 
