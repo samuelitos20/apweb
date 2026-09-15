@@ -164,3 +164,7 @@ brightgreen
 # Texto Dinamico
 ![Estado](https://img.shileds.io/badge/estado-en%20desarrollo-yellow)
 ! [Version](https://img.shileds.io/badge/version-1.0-blue)
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0808&background=FF007100&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=440&height=60&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
